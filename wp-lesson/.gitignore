@@ -1,0 +1,29 @@
+# WordPress core directories
+wp-admin/
+wp-includes/
+
+# Common WordPress files
+wp-config.php
+license.txt
+readme.html
+
+# System / OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build & dependency folders
+node_modules/
+vendor/
+npm-debug.log
+yarn-error.log
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# Cache & temp
+*.log
+*.tmp
+.cache/
+.sass-cache/
